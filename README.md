@@ -1,0 +1,1 @@
+# Every-Every-All-At-Once
