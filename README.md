@@ -70,7 +70,8 @@ Source: [Umar Butler](https://umarbutler.com/mapping-almost-every-law-regulation
 
 
 <a name="Laion"/>
-## [Every LAION-Aesthetics with score > 6](https://huggingface.co/datasets/dclure/laion-aesthetics-12m-umap/blob/b0179749412b9ef88194e486f7069bb8ced4aa15/README.md
+
+## [Every LAION-Aesthetics with score > 6](https://huggingface.co/datasets/dclure/laion-aesthetics-12m-umap/blob/b0179749412b9ef88194e486f7069bb8ced4aa15/README.md)
 Source: [David McClure](https://twitter.com/clured) @midjourney
 
 ![image](https://github.com/gm-is/Every-Every-All-At-Once/assets/42724114/d1984358-3ab9-4472-ba3f-8c2304ba560e)
@@ -79,6 +80,7 @@ Source: [David McClure](https://twitter.com/clured) @midjourney
 
 
 <a name="ArXivML"/>
+
 ## [Every ArXiv Machine Learning Paper](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html)
 Source: [Leland McInnes](https://github.com/lmcinnes)
 
