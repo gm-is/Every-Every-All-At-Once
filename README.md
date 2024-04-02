@@ -5,6 +5,8 @@
 
 [Emotion](#Emotion)
 
+[MoviePlot](#movie)
+
 [Noise](#Noise)
 
 [PubMed](#PubMed)  
@@ -23,18 +25,25 @@
 
 [UTD24](#utd24)
 
-[MoviePlot](#movie)
-
 
 
 
 
 <a name="Emotion"/>
 
-## [Every Emotion All At Once](https://www.hume.ai/blog/what-is-semantic-space-theory)
+## [Every Emotion All At Once](https://www.hume.ai/products/vocal-expression-model)
 Source: [Jeffrey Brooks, PhD at Hume.ai](https://www.hume.ai/blog/what-is-semantic-space-theory)
 
 [![image](https://github.com/gm-is/Every-Every-All-At-Once/assets/42724114/d3f994d9-a71d-4f9a-a44b-011580c583fe)](https://www.hume.ai/blog/what-is-semantic-space-theory)
+
+
+
+<a name="movie"/>
+
+## [Every Movie Plot All At Once](https://atlas.nomic.ai/data/mgu3/100385-movie-wiki-plots/map)
+Source: [ming](https://atlas.nomic.ai/data/mgu3/100385-movie-wiki-plots/map)
+
+[![image](https://github.com/gm-is/Every-Every-All-At-Once/assets/42724114/6b03a788-07d6-4bb9-87b8-7f98439f9efe)](https://atlas.nomic.ai/data/mgu3/100385-movie-wiki-plots/map)
 
 
 
@@ -127,13 +136,5 @@ Source: [ming](https://atlas.nomic.ai/data/mgu3/utd24/map)
 [![image](https://github.com/gm-is/Every-Every-All-At-Once/assets/42724114/82578a99-4f70-4c4d-82a4-bd462d87b02f)](https://atlas.nomic.ai/data/mgu3/utd24/map)
 
 
-
-
-<a name="movie"/>
-
-## [Every Movie Plot All At Once](https://atlas.nomic.ai/data/mgu3/100385-movie-wiki-plots/map)
-Source: [ming](https://atlas.nomic.ai/data/mgu3/100385-movie-wiki-plots/map)
-
-[![image](https://github.com/gm-is/Every-Every-All-At-Once/assets/42724114/6b03a788-07d6-4bb9-87b8-7f98439f9efe)](https://atlas.nomic.ai/data/mgu3/100385-movie-wiki-plots/map)
 
 
