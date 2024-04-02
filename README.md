@@ -1,4 +1,4 @@
-# Every-Every-All-At-Once
+# Every-Everything-All-At-Once
 
 ## Table Of Content
 
