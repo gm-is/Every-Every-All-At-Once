@@ -22,7 +22,7 @@
 
 [UTD24](#utd24)
 
-
+[MoviePlot](#movie)
 
 
 
@@ -124,4 +124,15 @@ Source: [bmschmidt](https://atlas.nomic.ai/data/bmschmidt)
 Source: [ming](https://atlas.nomic.ai/data/mgu3/utd24/map)
 
 ![image](https://github.com/gm-is/Every-Every-All-At-Once/assets/42724114/82578a99-4f70-4c4d-82a4-bd462d87b02f)
+
+
+
+
+<a name="movie"/>
+
+## [Every Movie Plot All At Once](https://atlas.nomic.ai/data/mgu3/100385-movie-wiki-plots/map)
+Source: [ming](https://atlas.nomic.ai/data/mgu3/100385-movie-wiki-plots/map)
+
+![image](https://github.com/gm-is/Every-Every-All-At-Once/assets/42724114/6b03a788-07d6-4bb9-87b8-7f98439f9efe)
+
 
