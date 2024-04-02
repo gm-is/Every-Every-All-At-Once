@@ -62,7 +62,7 @@ Source: @glenn_mcdonald at [Everynoise.com](https://everynoise.com/)
 <a name="oai"/>
 
 ## [Every OpenAI Forum Post All At Once](https://atlas.nomic.ai/data/glitch/openai-community-posts---clustering---v2/map)
-Source: [@glitch](https://atlas.nomic.ai/data/glitch/openai-community-posts---clustering---v2/map)
+Source: [Julep AI](https://atlas.nomic.ai/data/glitch/openai-community-posts---clustering---v2/map)
 
 ![image](https://github.com/gm-is/Every-Every-All-At-Once/assets/42724114/fd259343-f6c0-40ee-b462-66ce78b1f187)
 
