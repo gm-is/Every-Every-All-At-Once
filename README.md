@@ -20,7 +20,7 @@
 
 [StackOverflow](#so)
 
-
+[UTD24](#utd24)
 
 
 
@@ -114,3 +114,14 @@ Source: [Leland McInnes](https://github.com/lmcinnes)
 Source: [bmschmidt](https://atlas.nomic.ai/data/bmschmidt)
 
 ![image](https://github.com/gm-is/Every-Every-All-At-Once/assets/42724114/5813193a-7190-45ba-999a-8a646a53ccc8)
+
+
+
+
+<a name="utd24"/>
+
+## [Every UTD24 Published Article All At Once](https://atlas.nomic.ai/data/mgu3/utd24/map)
+Source: [ming](https://atlas.nomic.ai/data/mgu3/utd24/map)
+
+![image](https://github.com/gm-is/Every-Every-All-At-Once/assets/42724114/82578a99-4f70-4c4d-82a4-bd462d87b02f)
+
